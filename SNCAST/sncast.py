@@ -2,12 +2,14 @@
 # -*- coding: utf-8 -*-
 # ------------------------------------------------------------------
 # Filename: sncast.py
-#  Purpose: Seismic Network Capability Assessment Software Tool (SNCAST)
-#   Author: Martin Möllhoff, DIAS
-# Citation: Möllhoff, M., Bean, C.J. & Baptie, B.J. SN-CAST: seismic network capability assessment software tool 
-#           for regional networks - examples from Ireland. J Seismol 23, 493-504 (2019). https://doi.org/10.1007/s10950-019-09819-0
+# Purpose:  Seismic Network Capability Assessment Software Tool (SNCAST)
+# Author:   Martin Möllhoff, DIAS
+# Citation: Möllhoff, M., Bean, C.J. & Baptie, B.J.,
+#           SN-CAST: seismic network capability assessment software tool
+#           for regional networks - examples from Ireland. 
+#           J Seismol 23, 493-504 (2019). https://doi.org/10.1007/s10950-019-09819-0
 #
-#    You can run SNCAST in a web browser, without the need for a python installation on your computer:
+# You can run SNCAST in a browser, without a python installation on your computer:
 #
 #        - browse to https://github.com/moellhoff/Jupyter-Notebooks
 #        - click on the "launch binder" icon
@@ -28,9 +30,9 @@
 #    You should have received a copy of the GNU General Public License
 #    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
-#    email:         martin@dias.ie
-#    snail mail:    Martin Möllhoff, DIAS, 5 Merrion Square, Dublin 2, Ireland
-#    web:	    www.dias.ie/martin  www.insn.ie
+#    email:       martin@dias.ie
+#    snail mail:  Martin Möllhoff, DIAS, 5 Merrion Square, Dublin 2, Ireland
+#    web:         www.dias.ie/martin  www.insn.ie
 #
 # --------------------------------------------------------------------
 

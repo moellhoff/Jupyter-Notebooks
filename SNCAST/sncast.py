@@ -14,6 +14,7 @@
 #        - browse to https://github.com/moellhoff/Jupyter-Notebooks
 #        - click on the "launch binder" icon
 #        - wait a few minutes until the repository finished the starting process
+#        - click "sncast-getting-started.ipynb" and follow the instructions
 #
 #    Copyright (C) 2019 Martin Möllhoff
 #
